@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aabhishaek
-- 👀 I’m interested in developing applications using these languages : Java, Javascript, SQL and few frameworks that are associated with these languages
+- 👀 I’m interested in developing applications using these languages : Java, Javascript, Python, SQL and few frameworks that are associated with these languages
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on projects that involve java, vanilla javascript and SQL
+- 💞️ I’m looking to collaborate on projects that involve java, Spring boot, React, javascript, Nextjs, SQL, python
 - 📫 You can reach me at abhishekcs007@gmail.com
 
 <!---
